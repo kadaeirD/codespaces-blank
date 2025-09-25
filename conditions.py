@@ -23,6 +23,18 @@ else:(weather == her 'have a good day')
 
 
 
+
+
+
+
+
+
+
+
+
+3
+
+
 down = input('what down is it ')
 yards = input('how many yards do u need to get another first down?')
 
@@ -35,4 +47,19 @@ print (you can begin your drive permit t the ages 16)
 def permitcheck(age) 
     age >=16:
     print(congrats, u can begin learning to drive)''
+  else:
+ 
+print("sorry, not old enough")
+
+
+def positivenegative(number):
     
+    if number > 0:
+        print("this is positive")
+
+    else: ("this is negative")
+
+
+
+    
+
