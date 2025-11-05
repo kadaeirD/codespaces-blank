@@ -1,0 +1,82 @@
+# list = a collection for storing and organizing multpile 
+# pieces of data.
+
+# list syntax (how it is written)
+# when we want to create a list, we create a variablw and them 
+# assingn it to brackets means list 
+
+#[] - sqaure brackets means list
+
+shoppinglist =  ['apples ,' 'oeagnges , ' 'water ', 1,2,3,true,['bread','milk']]
+
+print(shoppinglist)
+
+# if we want to accsess an item froma list, we used the index syetem.
+# we write the list variable name, and then sue the brakcets and pass in the 
+
+# list are zero-based -indexed; meaning the list count always at zero
+
+print(shoppinglist[2])
+
+trunkparty = ['fan', 'mini fridge','laptop','tv','air fryer']
+
+def additemorcollege(list):
+    newitem = input("please add a new item to the college trunk party list :")
+    list.append(newitem)
+    print(list)
+additemforcollege(trunkparty)
+
+
+def removingitem(list):
+    removeitem = input ("pleas type the item you want to reomve":)
+    list.remove(item)
+    print(list )
+
+
+
+
+
+    def addandsort(newnumber):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# while loops definition = a while loop is a type of construct 
+# where code instructions will keep running so 
+# long as a condition is true (boolean)
+
+# NOTE - in order to stopa loop (or any program ) from running
+# in your termal, click crtl + c at the same time
+
+# while loop syntax
+
+agotobuygame = 17
+customerage = 15
+
+while agotobuygame >= customerage:
+    print("sorry,youre not old enough to buy gta VI")
+else:
+    print("great enjoy your collectors edition of gta VI")

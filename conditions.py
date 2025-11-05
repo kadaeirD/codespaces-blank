@@ -59,7 +59,31 @@ def positivenegative(number):
 
     else: ("this is negative")
 
+"float()"
+"imput()"
+"def()"
+"print()"
 
 
+"this would be a float data type."
+"logical"
+"comparison"
+"belongs to the comparison family"
+" the single equal sign is an assugnment operator. its used to assign a value to a comparison "
+' the doulble equal sign is used to compare if values are the same'
+number = input("please enter a number as a string")
+newdata = float(number)
+print(newdata * 2)
+"a parameter a placeholder we put inside the function definition"
+"An arguement is the actual data we run inside of the function call"
+
+"A function definition is describe the instructions . what we want it to do"
+"A function invocation is calling and using the function "
+
+'1 functions are useful to write coe instructions that are repeatable'
+'2 funcations are useful because we can have code'
+'that only runs when we want it to '
+"3.functions allow us to pass data bwtween programs without the "
+"us"
     
 

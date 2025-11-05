@@ -30,7 +30,6 @@ print(30/ 232)
 # Please write your response in complete sentences.
 
 # 5. Write code that takes a user’s input (as a string), 
-
 # casts it to a float, and prints the result multiplied by 2.
 
 # 6. What is the difference between a parameter and an argument?
