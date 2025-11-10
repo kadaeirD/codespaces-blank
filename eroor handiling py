@@ -1,0 +1,78 @@
+how to write an function in diffrent laugneges 
+function  
+func 
+fun 
+fn 
+def 
+
+
+
+# for loops - a type of construct that runs code instuctions 
+# a finite amount of times over a grop date 
+
+# count = len(halloweenbag)
+# print(count)
+# i is a variable and is short for iterator.
+# for i in halloweenbag:
+    print(i) 
+
+for x in range (5):
+    word = input("please type in a word")
+    print (word)
+
+
+def tf():
+    for x in range (3):
+        print ('true or falsw : 3 is greater than 2 ')
+        answer = input()
+        if answer != 'true':
+            print ('wrong try again')
+            print('attempt: '+ str(x))
+        else:
+            print(' great!')
+            break # stops th eloop. regardless of it being a for or while loop
+
+# looping through  strings
+word = "python"
+for letters in word: 
+    print(letter)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
