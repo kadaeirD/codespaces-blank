@@ -31,6 +31,7 @@ while: (15 < 13)
 
 
 
+
 # create a function
 # take in user input
 # keep adding numbers to list with a loop
@@ -84,3 +85,62 @@ def numberListloop():
     def addnumber():
         numberlist = []
         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        #1. we can make it safer - add authentication  
+        #2 add age to limit  
+
+        
+        # option add more ways  
+        def sighup (): 
+            

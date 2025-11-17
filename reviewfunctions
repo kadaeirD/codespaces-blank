@@ -42,3 +42,32 @@ ef numberListloop():
 
 classwork_kd: 5
 username_ld: 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+for x in  range(10): # - this loop is telling the computer to do these steps 10 times 
+    print("1 - make phone case")
+    print("2 - solder motherboard and chips to case")
+    print("3 - put screen on caseing")
+    print("4 - check to confirm phone can turn on")
+    if doesphonework != 'true':
+        phone = ' this is phone number : ' + str(x)
+        print("5 - place phone does not work. ")
+        defectivephones.append(phone)
+    else:
+        print("5 - place the phone in shipment box")
+        phone = ' this is phone number:' + str(x)
+        phoneshipment.append(phone)
+
+    print(phoneshipment)
+    print(defectivephones)
